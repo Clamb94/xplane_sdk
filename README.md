@@ -16,3 +16,4 @@ add_xplane_plugin(your_plugin_name your_plugin_file1.cpp your_plugin_file2.cpp)
 ```
 
 Start your build, and that should be it! There's an example plugin in example/ that you can reference to see how it works.
+Test
